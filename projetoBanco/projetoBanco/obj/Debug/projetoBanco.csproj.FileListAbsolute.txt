@@ -1,0 +1,23 @@
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\bin\Debug\projetoBanco.exe.config
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.csprojResolveAssemblyReference.cache
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.Form1.resources
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.Properties.Resources.resources
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.csproj.GenerateResource.Cache
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\bin\Debug\projetoBanco.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\bin\Debug\projetoBanco.pdb
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.pdb
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.FormCadastroConta.resources
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.FormRelatorios.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\bin\Debug\projetoBanco.exe.config
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\bin\Debug\projetoBanco.exe
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\bin\Debug\projetoBanco.pdb
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.csprojResolveAssemblyReference.cache
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.Form1.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.FormCadastroConta.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.FormRelatorios.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.Properties.Resources.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.csproj.GenerateResource.Cache
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.exe
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.pdb

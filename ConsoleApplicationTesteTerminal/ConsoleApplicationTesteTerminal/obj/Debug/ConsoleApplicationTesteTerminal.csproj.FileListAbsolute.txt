@@ -1,0 +1,6 @@
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ConsoleApplicationTesteTerminal\ConsoleApplicationTesteTerminal\bin\Debug\ConsoleApplicationTesteTerminal.exe.config
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ConsoleApplicationTesteTerminal\ConsoleApplicationTesteTerminal\bin\Debug\ConsoleApplicationTesteTerminal.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ConsoleApplicationTesteTerminal\ConsoleApplicationTesteTerminal\bin\Debug\ConsoleApplicationTesteTerminal.pdb
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ConsoleApplicationTesteTerminal\ConsoleApplicationTesteTerminal\obj\Debug\ConsoleApplicationTesteTerminal.csprojResolveAssemblyReference.cache
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ConsoleApplicationTesteTerminal\ConsoleApplicationTesteTerminal\obj\Debug\ConsoleApplicationTesteTerminal.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ConsoleApplicationTesteTerminal\ConsoleApplicationTesteTerminal\obj\Debug\ConsoleApplicationTesteTerminal.pdb

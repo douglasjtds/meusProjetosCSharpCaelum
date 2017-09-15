@@ -1,0 +1,9 @@
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\bin\Debug\firstProjectTest.exe.config
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\bin\Debug\firstProjectTest.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\bin\Debug\firstProjectTest.pdb
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\obj\Debug\firstProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\obj\Debug\firstProjectTest.Form1.resources
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\obj\Debug\firstProjectTest.Properties.Resources.resources
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\obj\Debug\firstProjectTest.csproj.GenerateResource.Cache
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\obj\Debug\firstProjectTest.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\firstProjectTest\firstProjectTest\obj\Debug\firstProjectTest.pdb
