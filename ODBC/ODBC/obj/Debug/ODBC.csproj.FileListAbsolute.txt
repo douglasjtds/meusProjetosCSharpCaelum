@@ -1,0 +1,6 @@
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ODBC\ODBC\bin\Debug\ODBC.exe.config
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ODBC\ODBC\bin\Debug\ODBC.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ODBC\ODBC\bin\Debug\ODBC.pdb
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ODBC\ODBC\obj\Debug\ODBC.csprojResolveAssemblyReference.cache
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ODBC\ODBC\obj\Debug\ODBC.exe
+C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\ODBC\ODBC\obj\Debug\ODBC.pdb

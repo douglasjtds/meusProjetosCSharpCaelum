@@ -52,7 +52,7 @@ namespace EditorDeTexto
         {
             Stream saida = File.Open("texto.txt", FileMode.Create);
             StreamWriter escritor = new StreamWriter(saida);
-            escritor.Write(textoConteuto.Text);
+            escritor.Write(textoConteudo.Text);
             escritor.Close();
             saida.Close();
 
@@ -64,12 +64,12 @@ namespace EditorDeTexto
         private void buttonFind_Click(object sender, EventArgs e)
         {
             string busca = textoBusca.Text;
-            string textoDoEditor = textoConteuto.Text;
+            string textoDoEditor = textoConteudo.Text;
             int resultadoBusca = textoDoEditor.IndexOf(busca);
             if (resultadoBusca >= 0) {
-                MessageBox.Show("Achei o texto " + busca); 
+                MessageBox.Show("Achei o texto: " + busca); 
             } else {
-                MessageBox.Show("Não achei.");
+                MessageBox.Show("Não achei " + "- " + busca + " -" + " no texto.");
             }
 
         }
@@ -77,19 +77,51 @@ namespace EditorDeTexto
         private void buttonReplace_Click(object sender, EventArgs e)
         {
             string busca = textoBusca.Text;
-            string textoDoEditor = textoConteuto.Text;
+            string textoDoEditor = textoConteudo.Text;
+            string textoParaMudar = textoReplace.Text;
             int resultadoDaBusca = textoDoEditor.IndexOf(busca);
             if (resultadoDaBusca >= 0) {
-                busca = busca.Replace(textoBusca.ToString(), textoReplace.ToString());
-                MessageBox.Show("Substituição feita com sucesso.");
-
-                //continuar daqui, ainda não terminei a lógica de salvar a modificação no arquivo
-                //exercício 3
-
-
+                textoConteudo.Text = textoDoEditor.Replace(busca, textoParaMudar);
             } else {
                 MessageBox.Show("Palavra não encontrada.");
             }
+        }
+
+        private void buttonToUpper_Click(object sender, EventArgs e)
+        {
+            string tudoMaiusculo = textoConteudo.Text;
+            tudoMaiusculo = tudoMaiusculo.ToUpper();
+            textoConteudo.Text = tudoMaiusculo;
+            MessageBox.Show("Texto alterado com sucesso.");
+        }
+
+        private void buttonToLower_Click(object sender, EventArgs e)
+        {
+            string tudoMinusculo = textoConteudo.Text;
+            tudoMinusculo = tudoMinusculo.ToLower();
+            textoConteudo.Text = tudoMinusculo;
+            MessageBox.Show("Texto alterado com sucesso.");
+        }
+
+        private void buttonSelectedToUpper_Click(object sender, EventArgs e){
+
+            /*código que peguei no exercício da apostila para colocar em maiusculo 
+            apenas o texto selecionado pelo usuário */
+
+            int inicioSelecao = textoConteudo.SelectionStart;
+            int tamanhoSelecao = textoConteudo.SelectionLength;
+
+            // agora vamos utilizar o Substring para pegar o texto selecionado
+            string textoSelecionado = textoConteudo.Text.Substring(inicioSelecao, tamanhoSelecao);
+
+            // além do texto selecionado, precisamos do texto antes da seleção:
+            string antes = textoConteudo.Text.Substring(0, inicioSelecao);
+
+            // e também do texto depois
+            string depois = textoConteudo.Text.Substring(inicioSelecao + tamanhoSelecao);
+
+            // E agora só precisamos redefinir o campo texto
+            textoConteudo.Text = antes + textoSelecionado.ToUpper() + depois;
         }
     }
 }
