@@ -21,7 +21,7 @@ namespace EditorDeTexto
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            //como salvar o arquivo em uma pasta diferente da pasta do projeto
+            //como salvar o arquivo em uma pasta diferente da pasta do projeto(?)
             var pastaDocumentos = Environment.GetFolderPath(
                           Environment.SpecialFolder.MyDocuments);
 

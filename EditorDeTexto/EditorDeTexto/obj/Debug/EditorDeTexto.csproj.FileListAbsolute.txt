@@ -7,3 +7,13 @@ C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\EditorDeTexto\Editor
 C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
 C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
 C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\meusProjetosCSharpCaelum\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
